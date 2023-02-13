@@ -17,9 +17,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 Desktop 
-![](./screenshot-desktop.png)
+![](images/screenshot-desktop.png)
 Mobile
-![](./screenshot-mobile.png)
+![](images/screenshot-mobile.png)
 
 ### Links
 
